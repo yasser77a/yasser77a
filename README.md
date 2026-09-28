@@ -7,11 +7,11 @@
 </h1>
 
 <h2 align="center">
-  👋 Yasser Alashram | ياسر الأشرم
+   Yasser Ahmmed Ali Alashram
 </h2>
 
 <h3 align="center">
-  🚀 Founder & CEO at Code Tech | المؤسس والمدير التنفيذي لشركة Code Tech
+   Founder & CEO at Code Tech
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
 <!-- 👨‍💻 ABOUT | نبذة -->
 <!-- ============================================ -->
 
-## 👨‍💻 About Me | نبذة عني
+##  About Me | نبذة عني
 
 <table>
 <tr>
@@ -44,12 +44,12 @@
 
 I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
-- 🏢 **Founder & CEO** at Code Tech (2021 - Present)
-- 💻 **Full-Stack Developer** with expertise in multiple technologies
-- 🌐 Specialized in **Web, Mobile, ERP, and Cyber Security**
-- 🎯 Passionate about **secure and high-precision software**
-- 📚 Fast learner & loves modern technologies
-- 📍 **Sanaa - Yemen** 🇾🇪
+-  **Founder & CEO** at Code Tech (2021 - Present)
+-  **Full-Stack Developer** with expertise in multiple technologies
+-  Specialized in **Web, Mobile, ERP, and Cyber Security**
+-  Passionate about **secure and high-precision software**
+-  Fast learner & loves modern technologies
+-  **Sanaa - Yemen** 🇾🇪
 
 </td>
 <td width="50%" valign="top">
@@ -58,12 +58,12 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 أنا **مطور Full-Stack** ومؤسس شركة **Code Tech** في صنعاء، اليمن.
 
-- 🏢 **المؤسس والمدير التنفيذي** في Code Tech (2021 - حتى الآن)
-- 💻 **مطور Full-Stack** بخبرة في تقنيات متعددة
-- 🌐 متخصص في **الويب، الجوال، الأنظمة، والأمن السيبراني**
-- 🎯 شغوف ببناء **أنظمة برمجية آمنة وعالية الدقة**
-- 📚 متعلم سريع وأحب التقنيات الحديثة
-- 📍 **صنعاء - اليمن** 🇾🇪
+-  **المؤسس والمدير التنفيذي** في Code Tech (2021 - حتى الآن)
+-  **مطور Full-Stack** بخبرة في تقنيات متعددة
+-  متخصص في **الويب، الجوال، الأنظمة، والأمن السيبراني**
+-  شغوف ببناء **أنظمة برمجية آمنة وعالية الدقة**
+-  متعلم سريع وأحب التقنيات الحديثة
+-  **صنعاء - اليمن** 🇾🇪
 
 </td>
 </tr>
@@ -75,11 +75,10 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- 🏢 CODE TECH | شركة كود تك -->
 <!-- ============================================ -->
 
-## 🏢 Code Tech | شركة كود تك
+##  Code Tech | شركة كود تك
 
 <p align="center">
-  <i>⚡ "Building secure and high-precision software systems"</i><br/>
-  <i>⚡ "نبني أنظمة برمجية بحماية فائقة ودقة عالية"</i>
+  <i> "Building secure and high-precision software systems"</i><br/>
 </p>
 
 <table>
@@ -90,12 +89,12 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 | Service | Description |
 |---------|-------------|
-| 🌐 **Web Development** | Fast, responsive professional websites |
-| 📱 **Mobile Apps** | Android & iOS with high performance |
-| 🖥️ **ERP Systems** | Integrated enterprise systems |
-| 🛡️ **Cybersecurity** | Advanced security solutions |
-| 🎨 **Graphic Design** | Visual identities & creative designs |
-| 🎓 **Graduation Projects** | Academic projects & research |
+|  **Web Development** | Fast, responsive professional websites |
+|  **Mobile Apps** | Android & iOS with high performance |
+|  **ERP Systems** | Integrated enterprise systems |
+|  **Cybersecurity** | Advanced security solutions |
+|  **Graphic Design** | Visual identities & creative designs |
+|  **Graduation Projects** | Academic projects & research |
 
 </td>
 <td width="50%" valign="top">
@@ -104,12 +103,12 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 | الخدمة | الوصف |
 |--------|-------|
-| 🌐 **تطوير المواقع** | مواقع احترافية سريعة ومتجاوبة |
-| 📱 **تطبيقات الجوال** | Android & iOS بأداء عالي |
-| 🖥️ **الأنظمة الإدارية** | ERP متكامل للمؤسسات |
-| 🛡️ **أنظمة الحماية** | حلول أمنية متقدمة |
-| 🎨 **تصاميم جرافيكس** | هويات بصرية وتصاميم إبداعية |
-| 🎓 **مشاريع التخرج** | مشاريع وبحوثات أكاديمية |
+|  **تطوير المواقع** | مواقع احترافية سريعة ومتجاوبة |
+|  **تطبيقات الجوال** | Android & iOS بأداء عالي |
+|  **الأنظمة الإدارية** | ERP متكامل للمؤسسات |
+|  **أنظمة الحماية** | حلول أمنية متقدمة |
+|  **تصاميم جرافيكس** | هويات بصرية وتصاميم إبداعية |
+|  **مشاريع التخرج** | مشاريع وبحوثات أكاديمية |
 
 </td>
 </tr>
@@ -127,9 +126,9 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- 🛠️ TECH STACK | التقنيات -->
 <!-- ============================================ -->
 
-## 🛠️ Tech Stack | التقنيات
+##  Tech Stack | التقنيات
 
-### 🌐 Frontend & Web
+###  Frontend & Web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,drupal,wordpress" />
 </p>
@@ -138,7 +137,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,cs,dotnet,java,arduino" />
 </p>
@@ -147,7 +146,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin" />
 </p>
@@ -156,7 +155,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </p>
@@ -165,7 +164,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### 🎨 Design & Tools
+###  Design & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,figma,vscode,git,github,linux,docker,vercel" />
 </p>
@@ -174,7 +173,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### 🔐 Security & APIs
+###  Security & APIs
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Advanced-E31E24?style=for-the-badge&logo=security" />
   <img src="https://img.shields.io/badge/API_Integration-Expert-0B3DA8?style=for-the-badge&logo=api" />
@@ -189,9 +188,9 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- 💼 EXPERIENCE | الخبرات -->
 <!-- ============================================ -->
 
-## 💼 Experience | الخبرات
+##  Experience | الخبرات
 
-### 🏢 Code Tech — Founder & CEO
+###  Code Tech — Founder & CEO
 **2021 - Present | Sanaa, Yemen**
 
 **Completed Projects | المشاريع المنجزة:**
