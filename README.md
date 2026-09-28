@@ -371,12 +371,10 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 <p align="center">
   <i>⚡ From Idea to Launch — Code Tech, Your Trusted Tech Partner</i><br/>
-  <i>⚡ من الفكرة إلى الإطلاق — Code Tech، شريكك التقني الموثوق</i>
 </p>
 
 <p align="center">
   <b>© 2021 - 2026 Code Tech | All Rights Reserved</b><br/>
-  <b>© 2021 - 2026 كود تك | جميع الحقوق محفوظة</b>
 </p>
 
 <p align="center">
