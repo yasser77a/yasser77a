@@ -189,7 +189,6 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <h2 align="center">
    Experience
 </h2>
----
 
 ### 🏢 You Yemeni Omani United — IT Developer
 **2024 - Present | Sanaa, Yemen**
@@ -421,7 +420,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- 🌐 CONTACT | التواصل -->
 <!-- ============================================ -->
 <h2 align="center">
-   🌐 Connect with Me
+   Connect with Me
 </h2>
 
 <p align="center">
