@@ -40,8 +40,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### English
-
 I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 -  **Founder & CEO** at Code Tech (2021 - Present)
@@ -54,7 +52,6 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 </td>
 <td width="50%" valign="top">
 
-### العربية
 
 أنا **مطور Full-Stack** ومؤسس شركة **Code Tech** في صنعاء، اليمن.
 
@@ -74,8 +71,9 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- ============================================ -->
 <!-- 🏢 CODE TECH | شركة كود تك -->
 <!-- ============================================ -->
-
-##  Code Tech | شركة كود تك
+<h2 align="center">
+   Code Tech
+</h2>
 
 <p align="center">
   <i> "Building secure and high-precision software systems"</i><br/>
@@ -85,7 +83,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <tr>
 <td width="50%" valign="top">
 
-### 🇬🇧 Our Services
+###  Our Services
 
 | Service | Description |
 |---------|-------------|
@@ -99,7 +97,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 </td>
 <td width="50%" valign="top">
 
-### 🇾🇪 خدماتنا
+### خدماتنا
 
 | الخدمة | الوصف |
 |--------|-------|
@@ -125,8 +123,9 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- ============================================ -->
 <!-- 🛠️ TECH STACK | التقنيات -->
 <!-- ============================================ -->
-
-##  Tech Stack | التقنيات
+<h2 align="center">
+   Tech Stack
+</h2>
 
 ###  Frontend & Web
 <p>
@@ -187,10 +186,38 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- ============================================ -->
 <!-- 💼 EXPERIENCE | الخبرات -->
 <!-- ============================================ -->
+<h2 align="center">
+   Experience
+</h2>
+---
 
-##  Experience | الخبرات
+### 🏢 You Yemeni Omani United — IT Developer
+**2024 - Present | Sanaa, Yemen**
 
-###  Code Tech — Founder & CEO
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🌐 **Information System (IT Developer)**
+- 📊 Developing and managing enterprise systems
+- 🔧 Technical support for internal systems
+- 💻 Building web applications and databases
+
+</td>
+<td width="50%" valign="top">
+
+- 🌐 **نظم المعلومات (مطور IT)**
+- 📊 تطوير وإدارة الأنظمة المؤسسية
+- 🔧 دعم فني للأنظمة الداخلية
+- 💻 بناء تطبيقات الويب وقواعد البيانات
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 Code Tech — Founder & CEO
 **2021 - Present | Sanaa, Yemen**
 
 **Completed Projects | المشاريع المنجزة:**
@@ -255,21 +282,91 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
-### 🏛️ Customs — Treasurer
-**2019 - 2021 | Yemen**
+### 📡 Sabafon — Applications Programmer
+**2023 | Sanaa, Yemen**
 
-- 🖥️ **Technical Support**
-- 💳 **Operations Exchange Application** (Deposit, Transfer, Receipt)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 📱 **Applications Programmer**
+- 💻 Developing internal applications
+- 🔧 Managing telecom software systems
+- 📊 Database and system administration
+
+</td>
+<td width="50%" valign="top">
+
+- 📱 **مبرمج تطبيقات**
+- 💻 تطوير التطبيقات الداخلية
+- 🔧 إدارة أنظمة برمجيات الاتصالات
+- 📊 إدارة قواعد البيانات والأنظمة
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Training & Certifications
+### 💼 BPC — Technical Support
+**2022 | Sanaa, Yemen**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🖥️ **Technical Support Specialist**
+- 🔧 Hardware and software troubleshooting
+- 👥 User support and training
+- 📊 System monitoring and maintenance
+
+</td>
+<td width="50%" valign="top">
+
+- 🖥️ **أخصائي دعم فني**
+- 🔧 استكشاف وإصلاح الأعطال
+- 👥 دعم المستخدمين والتدريب
+- 📊 مراقبة وصيانة الأنظمة
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏛️ Customs — Treasurer
+**2019 - 2021 | Yemen**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🖥️ **Technical Support**
+- 💳 **Operations Exchange Application** (Deposit, Transfer, Receipt)
+- 📊 Financial data management
+- 👥 User assistance
+
+</td>
+<td width="50%" valign="top">
+
+- 🖥️ **الدعم الفني**
+- 💳 **تطبيق تبادل العمليات** (إيداع، تحويل، استلام)
+- 📊 إدارة البيانات المالية
+- 👥 مساعدة المستخدمين
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Training & Certifications | الدورات والشهادات
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🏢 Sabafon
+#### 📡 Sabafon
 - Telecom Systems Training
 
 </td>
@@ -292,11 +389,14 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 ---
 
+---
+
 <!-- ============================================ -->
 <!-- 📊 STATS | الإحصائيات -->
 <!-- ============================================ -->
-
-## 📊 GitHub Stats | إحصائيات GitHub
+<h2 align="center">
+   GitHub Stats
+</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasser77a&theme=tokyonight&hide_border=true" />
@@ -320,8 +420,9 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 <!-- ============================================ -->
 <!-- 🌐 CONTACT | التواصل -->
 <!-- ============================================ -->
-
-## 🌐 Connect with Me | تواصل معي
+<h2 align="center">
+   🌐 Connect with Me
+</h2>
 
 <p align="center">
   <a href="https://wa.me/967775566442">
