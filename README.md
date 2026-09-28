@@ -300,12 +300,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 ## 📊 GitHub Stats | إحصائيات GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasser77a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasser77a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasser77a&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasser77a&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -319,7 +314,6 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasser77a&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasser77a&theme=tokyonight&utcOffset=3" />
 </p>
 
 ---
