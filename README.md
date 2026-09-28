@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🇬🇧 English
+### English
 
 I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 
@@ -54,7 +54,7 @@ I'm a **Full-Stack Developer** and **Founder of Code Tech** in Sanaa, Yemen.
 </td>
 <td width="50%" valign="top">
 
-### 🇾🇪 العربية
+### العربية
 
 أنا **مطور Full-Stack** ومؤسس شركة **Code Tech** في صنعاء، اليمن.
 
